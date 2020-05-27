@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.exe
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.deps.json
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.runtimeconfig.json
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.dll
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\bin\Debug\netcoreapp3.1\GraphProgram.pdb
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\obj\Debug\netcoreapp3.1\GraphProgram.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\obj\Debug\netcoreapp3.1\GraphProgram.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\obj\Debug\netcoreapp3.1\GraphProgram.AssemblyInfo.cs
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\obj\Debug\netcoreapp3.1\GraphProgram.dll
+C:\Users\ethan\source\repos\GraphProgram\GraphProgram\obj\Debug\netcoreapp3.1\GraphProgram.pdb

@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.exe
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.deps.json
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.runtimeconfig.json
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.dll
+C:\Users\ethan\source\repos\IntToBin\IntToBin\bin\Debug\netcoreapp3.1\IntToBin.pdb
+C:\Users\ethan\source\repos\IntToBin\IntToBin\obj\Debug\netcoreapp3.1\IntToBin.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\IntToBin\IntToBin\obj\Debug\netcoreapp3.1\IntToBin.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\IntToBin\IntToBin\obj\Debug\netcoreapp3.1\IntToBin.AssemblyInfo.cs
+C:\Users\ethan\source\repos\IntToBin\IntToBin\obj\Debug\netcoreapp3.1\IntToBin.dll
+C:\Users\ethan\source\repos\IntToBin\IntToBin\obj\Debug\netcoreapp3.1\IntToBin.pdb

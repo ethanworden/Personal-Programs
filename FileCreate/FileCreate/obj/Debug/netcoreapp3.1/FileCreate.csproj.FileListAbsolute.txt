@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.exe
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.deps.json
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.runtimeconfig.json
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.dll
+C:\Users\ethan\source\repos\FileCreate\FileCreate\bin\Debug\netcoreapp3.1\FileCreate.pdb
+C:\Users\ethan\source\repos\FileCreate\FileCreate\obj\Debug\netcoreapp3.1\FileCreate.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\FileCreate\FileCreate\obj\Debug\netcoreapp3.1\FileCreate.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\FileCreate\FileCreate\obj\Debug\netcoreapp3.1\FileCreate.AssemblyInfo.cs
+C:\Users\ethan\source\repos\FileCreate\FileCreate\obj\Debug\netcoreapp3.1\FileCreate.dll
+C:\Users\ethan\source\repos\FileCreate\FileCreate\obj\Debug\netcoreapp3.1\FileCreate.pdb
