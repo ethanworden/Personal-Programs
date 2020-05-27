@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.exe
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.deps.json
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.runtimeconfig.json
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.dll
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\bin\Debug\netcoreapp3.1\MyArrayList.pdb
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\obj\Debug\netcoreapp3.1\MyArrayList.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\obj\Debug\netcoreapp3.1\MyArrayList.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\obj\Debug\netcoreapp3.1\MyArrayList.AssemblyInfo.cs
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\obj\Debug\netcoreapp3.1\MyArrayList.dll
+C:\Users\ethan\source\repos\MyArrayList\MyArrayList\obj\Debug\netcoreapp3.1\MyArrayList.pdb

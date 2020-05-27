@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\obj\Debug\netcoreapp3.1\NumberGenandSort.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\obj\Debug\netcoreapp3.1\NumberGenandSort.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\obj\Debug\netcoreapp3.1\NumberGenandSort.AssemblyInfo.cs
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.exe
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.deps.json
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.runtimeconfig.json
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.dll
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\bin\Debug\netcoreapp3.1\NumberGenandSort.pdb
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\obj\Debug\netcoreapp3.1\NumberGenandSort.dll
+C:\Users\ethan\source\repos\NumberGenandSort\NumberGenandSort\obj\Debug\netcoreapp3.1\NumberGenandSort.pdb

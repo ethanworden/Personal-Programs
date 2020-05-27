@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.exe
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.deps.json
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.runtimeconfig.json
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.dll
+C:\Users\ethan\source\repos\MultInherit\MultInherit\bin\Debug\netcoreapp3.1\MultInherit.pdb
+C:\Users\ethan\source\repos\MultInherit\MultInherit\obj\Debug\netcoreapp3.1\MultInherit.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\MultInherit\MultInherit\obj\Debug\netcoreapp3.1\MultInherit.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\MultInherit\MultInherit\obj\Debug\netcoreapp3.1\MultInherit.AssemblyInfo.cs
+C:\Users\ethan\source\repos\MultInherit\MultInherit\obj\Debug\netcoreapp3.1\MultInherit.dll
+C:\Users\ethan\source\repos\MultInherit\MultInherit\obj\Debug\netcoreapp3.1\MultInherit.pdb
