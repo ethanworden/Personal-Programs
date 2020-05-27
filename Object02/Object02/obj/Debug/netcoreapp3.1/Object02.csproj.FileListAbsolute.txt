@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.exe
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.deps.json
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.runtimeconfig.json
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.dll
+C:\Users\ethan\source\repos\Object02\Object02\bin\Debug\netcoreapp3.1\Object02.pdb
+C:\Users\ethan\source\repos\Object02\Object02\obj\Debug\netcoreapp3.1\Object02.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Object02\Object02\obj\Debug\netcoreapp3.1\Object02.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Object02\Object02\obj\Debug\netcoreapp3.1\Object02.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Object02\Object02\obj\Debug\netcoreapp3.1\Object02.dll
+C:\Users\ethan\source\repos\Object02\Object02\obj\Debug\netcoreapp3.1\Object02.pdb
