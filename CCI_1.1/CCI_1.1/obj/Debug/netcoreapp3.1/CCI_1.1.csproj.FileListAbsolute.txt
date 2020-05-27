@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\obj\Debug\netcoreapp3.1\CCI_1.1.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\obj\Debug\netcoreapp3.1\CCI_1.1.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\obj\Debug\netcoreapp3.1\CCI_1.1.AssemblyInfo.cs
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.exe
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.deps.json
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.runtimeconfig.json
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.dll
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\bin\Debug\netcoreapp3.1\CCI_1.1.pdb
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\obj\Debug\netcoreapp3.1\CCI_1.1.dll
+C:\Users\ethan\source\repos\CCI_1.1\CCI_1.1\obj\Debug\netcoreapp3.1\CCI_1.1.pdb

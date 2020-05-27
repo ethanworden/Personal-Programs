@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.exe
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.deps.json
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.runtimeconfig.json
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.dll
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\bin\Debug\netcoreapp3.1\BellmanFord.pdb
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\obj\Debug\netcoreapp3.1\BellmanFord.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\obj\Debug\netcoreapp3.1\BellmanFord.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\obj\Debug\netcoreapp3.1\BellmanFord.AssemblyInfo.cs
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\obj\Debug\netcoreapp3.1\BellmanFord.dll
+C:\Users\ethan\source\repos\BellmanFord\BellmanFord\obj\Debug\netcoreapp3.1\BellmanFord.pdb

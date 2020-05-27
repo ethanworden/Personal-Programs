@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\obj\Debug\netcoreapp3.1\BinaryTree_Traverse.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\obj\Debug\netcoreapp3.1\BinaryTree_Traverse.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\obj\Debug\netcoreapp3.1\BinaryTree_Traverse.AssemblyInfo.cs
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.exe
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.deps.json
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.runtimeconfig.json
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.dll
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\bin\Debug\netcoreapp3.1\BinaryTree_Traverse.pdb
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\obj\Debug\netcoreapp3.1\BinaryTree_Traverse.dll
+C:\Users\ethan\source\repos\BinaryTree_Traverse\BinaryTree_Traverse\obj\Debug\netcoreapp3.1\BinaryTree_Traverse.pdb
