@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\obj\Debug\netcoreapp3.1\Reverse_Queue.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\obj\Debug\netcoreapp3.1\Reverse_Queue.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\obj\Debug\netcoreapp3.1\Reverse_Queue.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.exe
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.deps.json
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.runtimeconfig.json
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.dll
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\bin\Debug\netcoreapp3.1\Reverse_Queue.pdb
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\obj\Debug\netcoreapp3.1\Reverse_Queue.dll
+C:\Users\ethan\source\repos\Reverse_Queue\Reverse_Queue\obj\Debug\netcoreapp3.1\Reverse_Queue.pdb

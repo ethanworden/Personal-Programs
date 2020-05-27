@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.exe
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.deps.json
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.runtimeconfig.json
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.dll
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\bin\Debug\netcoreapp3.1\Reverse_file_stack.pdb
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\obj\Debug\netcoreapp3.1\Reverse_file_stack.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\obj\Debug\netcoreapp3.1\Reverse_file_stack.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\obj\Debug\netcoreapp3.1\Reverse_file_stack.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\obj\Debug\netcoreapp3.1\Reverse_file_stack.dll
+C:\Users\ethan\source\repos\Reverse_file_stack\Reverse_file_stack\obj\Debug\netcoreapp3.1\Reverse_file_stack.pdb

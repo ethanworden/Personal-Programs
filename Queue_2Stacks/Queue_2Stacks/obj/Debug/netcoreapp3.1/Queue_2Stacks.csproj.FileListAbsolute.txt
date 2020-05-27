@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\obj\Debug\netcoreapp3.1\Queue_2Stacks.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\obj\Debug\netcoreapp3.1\Queue_2Stacks.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\obj\Debug\netcoreapp3.1\Queue_2Stacks.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.exe
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.deps.json
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.runtimeconfig.json
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.dll
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\bin\Debug\netcoreapp3.1\Queue_2Stacks.pdb
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\obj\Debug\netcoreapp3.1\Queue_2Stacks.dll
+C:\Users\ethan\source\repos\Queue_2Stacks\Queue_2Stacks\obj\Debug\netcoreapp3.1\Queue_2Stacks.pdb

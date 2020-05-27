@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\RevString\RevString\obj\Debug\netcoreapp3.1\RevString.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\RevString\RevString\obj\Debug\netcoreapp3.1\RevString.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\RevString\RevString\obj\Debug\netcoreapp3.1\RevString.AssemblyInfo.cs
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.exe
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.deps.json
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.runtimeconfig.json
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.dll
+C:\Users\ethan\source\repos\RevString\RevString\bin\Debug\netcoreapp3.1\RevString.pdb
+C:\Users\ethan\source\repos\RevString\RevString\obj\Debug\netcoreapp3.1\RevString.dll
+C:\Users\ethan\source\repos\RevString\RevString\obj\Debug\netcoreapp3.1\RevString.pdb
