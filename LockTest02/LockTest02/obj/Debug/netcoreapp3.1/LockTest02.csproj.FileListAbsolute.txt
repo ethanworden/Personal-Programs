@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.exe
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.deps.json
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.runtimeconfig.json
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.dll
+C:\Users\ethan\source\repos\LockTest02\LockTest02\bin\Debug\netcoreapp3.1\LockTest02.pdb
+C:\Users\ethan\source\repos\LockTest02\LockTest02\obj\Debug\netcoreapp3.1\LockTest02.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\LockTest02\LockTest02\obj\Debug\netcoreapp3.1\LockTest02.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\LockTest02\LockTest02\obj\Debug\netcoreapp3.1\LockTest02.AssemblyInfo.cs
+C:\Users\ethan\source\repos\LockTest02\LockTest02\obj\Debug\netcoreapp3.1\LockTest02.dll
+C:\Users\ethan\source\repos\LockTest02\LockTest02\obj\Debug\netcoreapp3.1\LockTest02.pdb

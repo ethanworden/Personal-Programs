@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.exe
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.deps.json
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.runtimeconfig.json
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.dll
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\bin\Debug\netcoreapp3.1\Max_Min_Heap.pdb
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\obj\Debug\netcoreapp3.1\Max_Min_Heap.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\obj\Debug\netcoreapp3.1\Max_Min_Heap.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\obj\Debug\netcoreapp3.1\Max_Min_Heap.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\obj\Debug\netcoreapp3.1\Max_Min_Heap.dll
+C:\Users\ethan\source\repos\Max_Min_Heap\Max_Min_Heap\obj\Debug\netcoreapp3.1\Max_Min_Heap.pdb

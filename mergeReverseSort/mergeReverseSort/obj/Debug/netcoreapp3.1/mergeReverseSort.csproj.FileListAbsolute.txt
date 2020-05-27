@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\obj\Debug\netcoreapp3.1\mergeReverseSort.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\obj\Debug\netcoreapp3.1\mergeReverseSort.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\obj\Debug\netcoreapp3.1\mergeReverseSort.AssemblyInfo.cs
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.exe
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.deps.json
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.runtimeconfig.json
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.dll
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\bin\Debug\netcoreapp3.1\mergeReverseSort.pdb
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\obj\Debug\netcoreapp3.1\mergeReverseSort.dll
+C:\Users\ethan\source\repos\mergeReverseSort\mergeReverseSort\obj\Debug\netcoreapp3.1\mergeReverseSort.pdb
