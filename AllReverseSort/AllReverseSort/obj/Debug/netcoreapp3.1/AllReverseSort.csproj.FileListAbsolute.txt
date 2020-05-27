@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\obj\Debug\netcoreapp3.1\AllReverseSort.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\obj\Debug\netcoreapp3.1\AllReverseSort.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\obj\Debug\netcoreapp3.1\AllReverseSort.AssemblyInfo.cs
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.exe
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.deps.json
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.runtimeconfig.json
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.dll
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\bin\Debug\netcoreapp3.1\AllReverseSort.pdb
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\obj\Debug\netcoreapp3.1\AllReverseSort.dll
+C:\Users\ethan\source\repos\AllReverseSort\AllReverseSort\obj\Debug\netcoreapp3.1\AllReverseSort.pdb
