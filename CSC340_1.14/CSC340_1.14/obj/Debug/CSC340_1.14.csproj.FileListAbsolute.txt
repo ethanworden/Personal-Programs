@@ -1,0 +1,6 @@
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\obj\Debug\CSC340_1.14.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\bin\Debug\CSC340_1.14.exe.config
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\bin\Debug\CSC340_1.14.exe
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\bin\Debug\CSC340_1.14.pdb
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\obj\Debug\CSC340_1.14.exe
+C:\Users\ethan\source\repos\CSC340_1.14\CSC340_1.14\obj\Debug\CSC340_1.14.pdb

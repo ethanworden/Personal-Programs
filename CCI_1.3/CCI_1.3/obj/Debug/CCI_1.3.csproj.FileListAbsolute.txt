@@ -1,0 +1,6 @@
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\bin\Debug\CCI_1.3.exe.config
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\bin\Debug\CCI_1.3.exe
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\bin\Debug\CCI_1.3.pdb
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\obj\Debug\CCI_1.3.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\obj\Debug\CCI_1.3.exe
+C:\Users\ethan\source\repos\CCI_1.3\CCI_1.3\obj\Debug\CCI_1.3.pdb
