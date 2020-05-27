@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.exe
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.deps.json
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.runtimeconfig.json
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.dll
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\bin\Debug\netcoreapp3.1\db_hangman_orig.pdb
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\obj\Debug\netcoreapp3.1\db_hangman_orig.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\obj\Debug\netcoreapp3.1\db_hangman_orig.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\obj\Debug\netcoreapp3.1\db_hangman_orig.AssemblyInfo.cs
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\obj\Debug\netcoreapp3.1\db_hangman_orig.dll
+C:\Users\ethan\source\repos\db_hangman_orig\db_hangman_orig\obj\Debug\netcoreapp3.1\db_hangman_orig.pdb

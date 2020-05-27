@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "db_hangman": {
+      "commandName": "Project",
+      "commandLineArgs": "wordlist.txt",
+      "workingDirectory": "C:\\Users\\ethan\\source\\repos\\db_hangman"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.exe
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.deps.json
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.runtimeconfig.json
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.dll
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\bin\Debug\netcoreapp3.1\dentistOffice.pdb
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\obj\Debug\netcoreapp3.1\dentistOffice.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\obj\Debug\netcoreapp3.1\dentistOffice.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\obj\Debug\netcoreapp3.1\dentistOffice.AssemblyInfo.cs
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\obj\Debug\netcoreapp3.1\dentistOffice.dll
+C:\Users\ethan\source\repos\dentistOffice\dentistOffice\obj\Debug\netcoreapp3.1\dentistOffice.pdb

@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\ethan\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\ethan\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\ethan\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\ethan\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
