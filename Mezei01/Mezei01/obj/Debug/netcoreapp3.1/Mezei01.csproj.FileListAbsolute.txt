@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.exe
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.deps.json
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.runtimeconfig.json
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.dll
+C:\Users\ethan\source\repos\Mezei01\Mezei01\bin\Debug\netcoreapp3.1\Mezei01.pdb
+C:\Users\ethan\source\repos\Mezei01\Mezei01\obj\Debug\netcoreapp3.1\Mezei01.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Mezei01\Mezei01\obj\Debug\netcoreapp3.1\Mezei01.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Mezei01\Mezei01\obj\Debug\netcoreapp3.1\Mezei01.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Mezei01\Mezei01\obj\Debug\netcoreapp3.1\Mezei01.dll
+C:\Users\ethan\source\repos\Mezei01\Mezei01\obj\Debug\netcoreapp3.1\Mezei01.pdb

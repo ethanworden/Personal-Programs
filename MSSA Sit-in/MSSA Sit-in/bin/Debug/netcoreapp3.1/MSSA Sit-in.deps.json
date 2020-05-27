@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MSSA Sit-in/1.0.0": {
+        "runtime": {
+          "MSSA Sit-in.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MSSA Sit-in/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
