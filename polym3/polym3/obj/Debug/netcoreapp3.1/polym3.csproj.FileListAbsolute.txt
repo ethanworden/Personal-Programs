@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.exe
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.deps.json
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.runtimeconfig.json
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.dll
+C:\Users\ethan\source\repos\polym3\polym3\bin\Debug\netcoreapp3.1\polym3.pdb
+C:\Users\ethan\source\repos\polym3\polym3\obj\Debug\netcoreapp3.1\polym3.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\polym3\polym3\obj\Debug\netcoreapp3.1\polym3.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\polym3\polym3\obj\Debug\netcoreapp3.1\polym3.AssemblyInfo.cs
+C:\Users\ethan\source\repos\polym3\polym3\obj\Debug\netcoreapp3.1\polym3.dll
+C:\Users\ethan\source\repos\polym3\polym3\obj\Debug\netcoreapp3.1\polym3.pdb

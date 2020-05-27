@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.exe
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.deps.json
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.runtimeconfig.json
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.dll
+C:\Users\ethan\source\repos\polymorph03\polymorph03\bin\Debug\netcoreapp3.1\polymorph03.pdb
+C:\Users\ethan\source\repos\polymorph03\polymorph03\obj\Debug\netcoreapp3.1\polymorph03.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\polymorph03\polymorph03\obj\Debug\netcoreapp3.1\polymorph03.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\polymorph03\polymorph03\obj\Debug\netcoreapp3.1\polymorph03.AssemblyInfo.cs
+C:\Users\ethan\source\repos\polymorph03\polymorph03\obj\Debug\netcoreapp3.1\polymorph03.dll
+C:\Users\ethan\source\repos\polymorph03\polymorph03\obj\Debug\netcoreapp3.1\polymorph03.pdb
