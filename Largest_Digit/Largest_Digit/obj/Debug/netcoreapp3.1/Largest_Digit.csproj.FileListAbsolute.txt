@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\obj\Debug\netcoreapp3.1\Largest_Digit.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\obj\Debug\netcoreapp3.1\Largest_Digit.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\obj\Debug\netcoreapp3.1\Largest_Digit.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.exe
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.deps.json
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.runtimeconfig.json
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.dll
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\bin\Debug\netcoreapp3.1\Largest_Digit.pdb
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\obj\Debug\netcoreapp3.1\Largest_Digit.dll
+C:\Users\ethan\source\repos\Largest_Digit\Largest_Digit\obj\Debug\netcoreapp3.1\Largest_Digit.pdb

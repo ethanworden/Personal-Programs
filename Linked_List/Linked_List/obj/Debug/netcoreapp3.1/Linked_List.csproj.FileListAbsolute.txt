@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Linked_List\Linked_List\obj\Debug\netcoreapp3.1\Linked_List.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Linked_List\Linked_List\obj\Debug\netcoreapp3.1\Linked_List.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Linked_List\Linked_List\obj\Debug\netcoreapp3.1\Linked_List.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.exe
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.deps.json
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.runtimeconfig.json
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.dll
+C:\Users\ethan\source\repos\Linked_List\Linked_List\bin\Debug\netcoreapp3.1\Linked_List.pdb
+C:\Users\ethan\source\repos\Linked_List\Linked_List\obj\Debug\netcoreapp3.1\Linked_List.dll
+C:\Users\ethan\source\repos\Linked_List\Linked_List\obj\Debug\netcoreapp3.1\Linked_List.pdb
