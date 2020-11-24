@@ -1,0 +1,6 @@
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\obj\Debug\ReadStringLength.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\bin\Debug\ReadStringLength.exe.config
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\bin\Debug\ReadStringLength.exe
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\bin\Debug\ReadStringLength.pdb
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\obj\Debug\ReadStringLength.exe
+C:\Users\ethan\source\repos\ReadStringLength\ReadStringLength\obj\Debug\ReadStringLength.pdb
