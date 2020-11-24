@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.exe
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.deps.json
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.runtimeconfig.json
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.dll
+C:\Users\ethan\source\repos\Print\Print\bin\Debug\netcoreapp3.1\Print.pdb
+C:\Users\ethan\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.dll
+C:\Users\ethan\source\repos\Print\Print\obj\Debug\netcoreapp3.1\Print.pdb

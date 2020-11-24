@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\obj\Debug\netcoreapp3.1\ProdCom01.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\obj\Debug\netcoreapp3.1\ProdCom01.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\obj\Debug\netcoreapp3.1\ProdCom01.AssemblyInfo.cs
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.exe
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.deps.json
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.runtimeconfig.json
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.dll
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\bin\Debug\netcoreapp3.1\ProdCom01.pdb
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\obj\Debug\netcoreapp3.1\ProdCom01.dll
+C:\Users\ethan\source\repos\ProdCom01\ProdCom01\obj\Debug\netcoreapp3.1\ProdCom01.pdb

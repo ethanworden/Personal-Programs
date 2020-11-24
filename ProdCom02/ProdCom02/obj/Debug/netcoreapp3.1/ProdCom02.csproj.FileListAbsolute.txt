@@ -1,0 +1,11 @@
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.exe
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.deps.json
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.runtimeconfig.json
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.dll
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\bin\Debug\netcoreapp3.1\ProdCom02.pdb
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\obj\Debug\netcoreapp3.1\ProdCom02.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\obj\Debug\netcoreapp3.1\ProdCom02.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\obj\Debug\netcoreapp3.1\ProdCom02.AssemblyInfo.cs
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\obj\Debug\netcoreapp3.1\ProdCom02.dll
+C:\Users\ethan\source\repos\ProdCom02\ProdCom02\obj\Debug\netcoreapp3.1\ProdCom02.pdb
