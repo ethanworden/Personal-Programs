@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+C:\Users\ethan\source\repos\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\ethan\source\repos\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
