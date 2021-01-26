@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Two_String_Permutation/1.0.0": {
+        "runtime": {
+          "Two_String_Permutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two_String_Permutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.exe
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.deps.json
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.runtimeconfig.json
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.dll
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\bin\Debug\netcoreapp3.1\Two_String_Permutation.pdb
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.dll
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.pdb
+C:\Users\ethan\source\repos\Two_String_Permutation\Two_String_Permutation\obj\Debug\netcoreapp3.1\Two_String_Permutation.genruntimeconfig.cache
